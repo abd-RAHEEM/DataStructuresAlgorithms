@@ -26,4 +26,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1009-complement-of-base-10-integer](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1009-complement-of-base-10-integer) |
 <!---LeetCode Topics End-->
