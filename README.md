@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0199-binary-tree-right-side-view](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0543-diameter-of-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0687-longest-univalue-path) |
 ## Depth-First Search
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0199-binary-tree-right-side-view](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0543-diameter-of-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0687-longest-univalue-path) |
 ## Binary Tree
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0199-binary-tree-right-side-view](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0543-diameter-of-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0687-longest-univalue-path) |
 ## Two Pointers
@@ -133,4 +136,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0100-same-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0112-path-sum](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0112-path-sum) |
+| [0199-binary-tree-right-side-view](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0199-binary-tree-right-side-view) |
 <!---LeetCode Topics End-->
