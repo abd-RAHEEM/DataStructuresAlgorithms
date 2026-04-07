@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0190-reverse-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0222-count-complete-tree-nodes) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0868-binary-gap) |
@@ -154,4 +155,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0112-path-sum](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0199-binary-tree-right-side-view) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
