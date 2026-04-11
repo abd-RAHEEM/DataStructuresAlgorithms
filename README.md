@@ -18,11 +18,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3637-trionic-array-i](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/3637-trionic-array-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/3643-flip-square-submatrix-vertically) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 ## Hash Table
 |  |
 | ------- |
 | [0874-walking-robot-simulation](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0874-walking-robot-simulation) |
 | [1980-find-unique-binary-string](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1980-find-unique-binary-string) |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 ## String
 |  |
 | ------- |
