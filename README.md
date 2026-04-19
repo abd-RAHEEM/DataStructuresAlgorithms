@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1848-minimum-distance-to-the-target-element) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1980-find-unique-binary-string](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1980-find-unique-binary-string) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0222-count-complete-tree-nodes) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3488-closest-equal-element-queries](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/3488-closest-equal-element-queries) |
 ## Heap (Priority Queue)
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [3643-flip-square-submatrix-vertically](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/3643-flip-square-submatrix-vertically) |
 ## Dynamic Programming
 |  |
