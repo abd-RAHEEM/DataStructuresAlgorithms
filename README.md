@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-minimum-distance-to-the-target-element](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1980-find-unique-binary-string](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1980-find-unique-binary-string) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1559-detect-cycles-in-2d-grid](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 ## Counting
 |  |
 | ------- |
@@ -103,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3623-count-number-of-trapezoids-i](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/3623-count-number-of-trapezoids-i) |
