@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3643-flip-square-submatrix-vertically](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/3643-flip-square-submatrix-vertically) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Hash Table
 |  |
 | ------- |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3225-maximum-score-from-grid-operations](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/3225-maximum-score-from-grid-operations) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/3417-zigzag-grid-traversal-with-skip) |
 | [3643-flip-square-submatrix-vertically](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/3643-flip-square-submatrix-vertically) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0124-binary-tree-maximum-path-sum) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [3225-maximum-score-from-grid-operations](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/3225-maximum-score-from-grid-operations) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Breadth-First Search
 |  |
 | ------- |
