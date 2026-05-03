@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/3742-maximum-path-score-in-a-grid) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3488-closest-equal-element-queries](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/3488-closest-equal-element-queries) |
 | [3623-count-number-of-trapezoids-i](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/3623-count-number-of-trapezoids-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## String
 |  |
 | ------- |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3623-count-number-of-trapezoids-i](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/3623-count-number-of-trapezoids-i) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/3783-mirror-distance-of-an-integer) |
 ## Binary Search
 |  |
