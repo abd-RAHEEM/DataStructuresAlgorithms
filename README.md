@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1559-detect-cycles-in-2d-grid](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1848-minimum-distance-to-the-target-element) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-walking-robot-simulation](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0874-walking-robot-simulation) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1980-find-unique-binary-string](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1980-find-unique-binary-string) |
 | [2615-sum-of-distances](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/2615-sum-of-distances) |
 | [3488-closest-equal-element-queries](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/3488-closest-equal-element-queries) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2615-sum-of-distances](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/2615-sum-of-distances) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
