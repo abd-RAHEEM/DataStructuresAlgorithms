@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0396-rotate-function](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0396-rotate-function) |
 | [0874-walking-robot-simulation](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0874-walking-robot-simulation) |
+| [1345-jump-game-iv](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1345-jump-game-iv) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0874-walking-robot-simulation](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0874-walking-robot-simulation) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1345-jump-game-iv](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1345-jump-game-iv) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1980-find-unique-binary-string](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1980-find-unique-binary-string) |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0199-binary-tree-right-side-view) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1345-jump-game-iv](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1345-jump-game-iv) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Divide and Conquer
