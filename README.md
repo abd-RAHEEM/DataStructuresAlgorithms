@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0657-robot-return-to-origin) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1871-jump-game-vii](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1871-jump-game-vii) |
 | [1980-find-unique-binary-string](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1980-find-unique-binary-string) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/2452-words-within-two-edits-of-dictionary) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [1871-jump-game-vii](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1871-jump-game-vii) |
 | [2615-sum-of-distances](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/2615-sum-of-distances) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0788-rotated-digits](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0788-rotated-digits) |
 | [1340-jump-game-v](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1340-jump-game-v) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [1871-jump-game-vii](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1871-jump-game-vii) |
 | [3225-maximum-score-from-grid-operations](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/3225-maximum-score-from-grid-operations) |
 | [3660-jump-game-ix](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/3660-jump-game-ix) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/3742-maximum-path-score-in-a-grid) |
@@ -285,4 +288,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/2452-words-within-two-edits-of-dictionary) |
+## Sliding Window
+|  |
+| ------- |
+| [1871-jump-game-vii](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1871-jump-game-vii) |
 <!---LeetCode Topics End-->
