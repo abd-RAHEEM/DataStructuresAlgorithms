@@ -313,4 +313,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1871-jump-game-vii](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1871-jump-game-vii) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
