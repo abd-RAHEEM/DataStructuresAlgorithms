@@ -251,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0662-maximum-width-of-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0671-second-minimum-node-in-a-binary-tree) |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0112-path-sum](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0199-binary-tree-right-side-view) |
+| [0547-number-of-provinces](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -353,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0547-number-of-provinces) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
@@ -419,4 +422,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0173-binary-search-tree-iterator) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
