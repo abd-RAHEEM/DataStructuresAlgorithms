@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1732-find-the-highest-altitude](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1732-find-the-highest-altitude) |
+| [1765-map-of-highest-peak](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1765-map-of-highest-peak) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1861-rotating-the-box) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1559-detect-cycles-in-2d-grid](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1765-map-of-highest-peak](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1765-map-of-highest-peak) |
 | [1861-rotating-the-box](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1861-rotating-the-box) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -348,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1345-jump-game-iv](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1345-jump-game-iv) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1765-map-of-highest-peak](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1765-map-of-highest-peak) |
 ## Divide and Conquer
 |  |
 | ------- |
