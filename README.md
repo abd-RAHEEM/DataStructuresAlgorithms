@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0396-rotate-function](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0396-rotate-function) |
+| [0542-01-matrix](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0733-flood-fill) |
 | [0874-walking-robot-simulation](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0874-walking-robot-simulation) |
 | [0994-rotting-oranges](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0994-rotting-oranges) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0542-01-matrix](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0994-rotting-oranges) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0396-rotate-function](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0396-rotate-function) |
+| [0542-01-matrix](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0542-01-matrix) |
 | [0788-rotated-digits](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0788-rotated-digits) |
 | [1340-jump-game-v](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1340-jump-game-v) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -333,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0207-course-schedule) |
+| [0542-01-matrix](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0662-maximum-width-of-binary-tree) |
