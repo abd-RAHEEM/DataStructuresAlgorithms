@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-minimum-distance-to-the-target-element](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1861-rotating-the-box) |
+| [1928-minimum-cost-to-reach-destination-in-time](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [1980-find-unique-binary-string](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1980-find-unique-binary-string) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -349,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1340-jump-game-v](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1340-jump-game-v) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1871-jump-game-vii](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1871-jump-game-vii) |
+| [1928-minimum-cost-to-reach-destination-in-time](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [3225-maximum-score-from-grid-operations](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/3225-maximum-score-from-grid-operations) |
 | [3660-jump-game-ix](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/3660-jump-game-ix) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/3742-maximum-path-score-in-a-grid) |
@@ -491,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0802-find-eventual-safe-states) |
+| [1928-minimum-cost-to-reach-destination-in-time](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 ## Topological Sort
 |  |
 | ------- |
