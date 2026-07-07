@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3623-count-number-of-trapezoids-i](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/3623-count-number-of-trapezoids-i) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/3783-mirror-distance-of-an-integer) |
 ## Binary Search
