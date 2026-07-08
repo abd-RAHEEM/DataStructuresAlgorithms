@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0200-number-of-islands](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0200-number-of-islands) |
+| [0238-product-of-array-except-self](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0238-product-of-array-except-self) |
 | [0396-rotate-function](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0396-rotate-function) |
 | [0542-01-matrix](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0733-flood-fill) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0238-product-of-array-except-self) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1732-find-the-highest-altitude](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1732-find-the-highest-altitude) |
 | [1871-jump-game-vii](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1871-jump-game-vii) |
