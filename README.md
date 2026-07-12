@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0198-house-robber](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0238-product-of-array-except-self) |
 | [0396-rotate-function](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0396-rotate-function) |
@@ -376,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0198-house-robber](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0198-house-robber) |
 | [0396-rotate-function](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0396-rotate-function) |
 | [0542-01-matrix](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0787-cheapest-flights-within-k-stops) |
