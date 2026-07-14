@@ -1,0 +1,18 @@
+class Solution(object):
+    def canPartition(self, nums):
+        """
+        :type nums: List[int]
+        :rtype: bool
+        """
+        if sum(nums)%2!=0:
+            return False
+        target=sum(nums)//2
+        dp=[False] *(target+1)
+        dp[0]=True
+        n=len(nums)
+        for num in nums:
+            for j in range(target,num-1,-1):
+                dp[j]=dp[j] or dp[j-num]
+        return dp[target]
+
+        
