@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [1980-find-unique-binary-string](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1980-find-unique-binary-string) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/2452-words-within-two-edits-of-dictionary) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Sorting
 |  |
 | ------- |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2784-check-if-array-is-good](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/2784-check-if-array-is-good) |
 ## Counting
@@ -228,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0222-count-complete-tree-nodes) |
 | [1631-path-with-minimum-effort](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1631-path-with-minimum-effort) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2540-minimum-common-value](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/2540-minimum-common-value) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3488-closest-equal-element-queries](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/3488-closest-equal-element-queries) |
@@ -377,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1861-rotating-the-box) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2540-minimum-common-value](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/2540-minimum-common-value) |
@@ -402,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1871-jump-game-vii](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1871-jump-game-vii) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [3225-maximum-score-from-grid-operations](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/3225-maximum-score-from-grid-operations) |
 | [3660-jump-game-ix](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/3660-jump-game-ix) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/3742-maximum-path-score-in-a-grid) |
@@ -588,4 +594,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0062-unique-paths) |
+## Ordered Set
+|  |
+| ------- |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+## Bitmask
+|  |
+| ------- |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 <!---LeetCode Topics End-->
