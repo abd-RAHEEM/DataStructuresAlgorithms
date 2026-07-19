@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1861-rotating-the-box) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1980-find-unique-binary-string](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1980-find-unique-binary-string) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0788-rotated-digits](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0788-rotated-digits) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -608,4 +610,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+## Number Theory
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
