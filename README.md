@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1020-number-of-enclaves](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1260-shift-2d-grid](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1260-shift-2d-grid) |
 | [1306-jump-game-iii](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1306-jump-game-iii) |
 | [1340-jump-game-v](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1345-jump-game-iv) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1260-shift-2d-grid](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1260-shift-2d-grid) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0657-robot-return-to-origin) |
 | [0874-walking-robot-simulation](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0874-walking-robot-simulation) |
+| [1260-shift-2d-grid](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1260-shift-2d-grid) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2553-separate-the-digits-in-an-array](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/2553-separate-the-digits-in-an-array) |
