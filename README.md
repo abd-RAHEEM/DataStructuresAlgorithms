@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0213-house-robber-ii) |
+| [0217-contains-duplicate](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0238-product-of-array-except-self) |
 | [0322-coin-change](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0322-coin-change) |
 | [0396-rotate-function](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0396-rotate-function) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0126-word-ladder-ii](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0127-word-ladder) |
+| [0217-contains-duplicate](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0217-contains-duplicate) |
 | [0387-first-unique-character-in-a-string](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0387-first-unique-character-in-a-string) |
 | [0433-minimum-genetic-mutation](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0433-minimum-genetic-mutation) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0217-contains-duplicate) |
 | [0721-accounts-merge](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0721-accounts-merge) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1340-jump-game-v](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1340-jump-game-v) |
