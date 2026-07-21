@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0033-search-in-rotated-sorted-array) |
+| [0041-first-missing-positive](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0041-first-missing-positive) |
 | [0063-unique-paths-ii](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0064-minimum-path-sum) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0041-first-missing-positive) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0126-word-ladder-ii](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0126-word-ladder-ii) |
