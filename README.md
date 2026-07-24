@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0125-valid-palindrome) |
 | [0126-word-ladder-ii](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0127-word-ladder) |
 | [0387-first-unique-character-in-a-string](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0387-first-unique-character-in-a-string) |
@@ -390,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0011-container-with-most-water) |
+| [0125-valid-palindrome](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1855-maximum-distance-between-a-pair-of-values) |
