@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2784-check-if-array-is-good](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/2784-check-if-array-is-good) |
+| [3536-maximum-product-of-two-digits](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/3536-maximum-product-of-two-digits) |
 ## Counting
 |  |
 | ------- |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3536-maximum-product-of-two-digits](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/3536-maximum-product-of-two-digits) |
 | [3623-count-number-of-trapezoids-i](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/3623-count-number-of-trapezoids-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
