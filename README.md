@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0542-01-matrix) |
+| [0682-baseball-game](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0682-baseball-game) |
 | [0721-accounts-merge](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0733-flood-fill) |
 | [0827-making-a-large-island](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0827-making-a-large-island) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0657-robot-return-to-origin) |
+| [0682-baseball-game](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0682-baseball-game) |
 | [0874-walking-robot-simulation](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0874-walking-robot-simulation) |
 | [1260-shift-2d-grid](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1260-shift-2d-grid) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
@@ -555,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0173-binary-search-tree-iterator](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0173-binary-search-tree-iterator) |
+| [0682-baseball-game](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0682-baseball-game) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Binary Search Tree
