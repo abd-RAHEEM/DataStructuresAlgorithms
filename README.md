@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0682-baseball-game) |
 | [0721-accounts-merge](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0733-flood-fill) |
+| [0739-daily-temperatures](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0739-daily-temperatures) |
 | [0827-making-a-large-island](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0827-making-a-large-island) |
 | [0874-walking-robot-simulation](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0874-walking-robot-simulation) |
 | [0977-squares-of-a-sorted-array](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0977-squares-of-a-sorted-array) |
@@ -558,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0173-binary-search-tree-iterator](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0173-binary-search-tree-iterator) |
 | [0682-baseball-game](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0739-daily-temperatures) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Binary Search Tree
@@ -576,6 +578,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0739-daily-temperatures](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0739-daily-temperatures) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Design
 |  |
