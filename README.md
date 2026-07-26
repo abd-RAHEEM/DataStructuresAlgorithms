@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0739-daily-temperatures) |
 | [0827-making-a-large-island](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0827-making-a-large-island) |
+| [0853-car-fleet](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0853-car-fleet) |
 | [0874-walking-robot-simulation](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0874-walking-robot-simulation) |
 | [0977-squares-of-a-sorted-array](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0994-rotting-oranges) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0217-contains-duplicate) |
 | [0721-accounts-merge](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0721-accounts-merge) |
+| [0853-car-fleet](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0853-car-fleet) |
 | [0977-squares-of-a-sorted-array](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0977-squares-of-a-sorted-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1340-jump-game-v](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1340-jump-game-v) |
@@ -560,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0173-binary-search-tree-iterator) |
 | [0682-baseball-game](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0739-daily-temperatures) |
+| [0853-car-fleet](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0853-car-fleet) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Binary Search Tree
@@ -579,6 +582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0739-daily-temperatures) |
+| [0853-car-fleet](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0853-car-fleet) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Design
 |  |
