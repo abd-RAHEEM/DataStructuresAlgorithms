@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0126-word-ladder-ii](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0127-word-ladder) |
+| [0138-copy-list-with-random-pointer](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0138-copy-list-with-random-pointer) |
 | [0217-contains-duplicate](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0217-contains-duplicate) |
 | [0387-first-unique-character-in-a-string](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0387-first-unique-character-in-a-string) |
 | [0433-minimum-genetic-mutation](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0433-minimum-genetic-mutation) |
@@ -557,6 +558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0138-copy-list-with-random-pointer](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0138-copy-list-with-random-pointer) |
 | [0143-reorder-list](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0143-reorder-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
