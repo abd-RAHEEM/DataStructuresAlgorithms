@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0322-coin-change) |
 | [0396-rotate-function](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0396-rotate-function) |
 | [0416-partition-equal-subset-sum](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0416-partition-equal-subset-sum) |
+| [0486-predict-the-winner](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0542-01-matrix) |
 | [0682-baseball-game](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0682-baseball-game) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0062-unique-paths) |
 | [0396-rotate-function](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0396-rotate-function) |
+| [0486-predict-the-winner](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0486-predict-the-winner) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0788-rotated-digits](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0788-rotated-digits) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
@@ -440,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0322-coin-change) |
 | [0396-rotate-function](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0396-rotate-function) |
 | [0416-partition-equal-subset-sum](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0416-partition-equal-subset-sum) |
+| [0486-predict-the-winner](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -670,4 +673,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0143-reorder-list) |
+| [0486-predict-the-winner](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
