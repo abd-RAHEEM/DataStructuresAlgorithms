@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0827-making-a-large-island](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0827-making-a-large-island) |
 | [0853-car-fleet](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0853-car-fleet) |
 | [0874-walking-robot-simulation](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0874-walking-robot-simulation) |
+| [0877-stone-game](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0486-predict-the-winner) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0788-rotated-digits](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0788-rotated-digits) |
+| [0877-stone-game](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0877-stone-game) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -447,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0788-rotated-digits](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0788-rotated-digits) |
+| [0877-stone-game](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0877-stone-game) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1340-jump-game-v](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1340-jump-game-v) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -678,4 +681,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
