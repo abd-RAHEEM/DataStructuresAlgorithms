@@ -385,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1559-detect-cycles-in-2d-grid](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1631-path-with-minimum-effort](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1631-path-with-minimum-effort) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
+| [3310-remove-methods-from-project](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |
 | ------- |
@@ -502,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1559-detect-cycles-in-2d-grid](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1631-path-with-minimum-effort](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1631-path-with-minimum-effort) |
 | [1765-map-of-highest-peak](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1765-map-of-highest-peak) |
+| [3310-remove-methods-from-project](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/3310-remove-methods-from-project) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -631,6 +633,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [3310-remove-methods-from-project](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/3310-remove-methods-from-project) |
 ## Topological Sort
 |  |
 | ------- |
