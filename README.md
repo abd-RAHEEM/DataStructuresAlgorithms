@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3093-longest-common-suffix-queries](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/3093-longest-common-suffix-queries) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3838-weighted-word-mapping](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/3838-weighted-word-mapping) |
 ## Backtracking
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Matrix
 |  |
 | ------- |
@@ -434,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2540-minimum-common-value](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/2540-minimum-common-value) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3643-flip-square-submatrix-vertically](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/3643-flip-square-submatrix-vertically) |
 ## Dynamic Programming
 |  |
@@ -463,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [3225-maximum-score-from-grid-operations](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/3225-maximum-score-from-grid-operations) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3660-jump-game-ix](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/3660-jump-game-ix) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Breadth-First Search
