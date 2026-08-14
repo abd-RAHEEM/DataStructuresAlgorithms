@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2784-check-if-array-is-good](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/2784-check-if-array-is-good) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3488-closest-equal-element-queries](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/3488-closest-equal-element-queries) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2833-furthest-point-from-origin](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/2833-furthest-point-from-origin) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3093-longest-common-suffix-queries](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/3093-longest-common-suffix-queries) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -562,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0239-sliding-window-maximum) |
 | [1871-jump-game-vii](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1871-jump-game-vii) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Database
 |  |
 | ------- |
