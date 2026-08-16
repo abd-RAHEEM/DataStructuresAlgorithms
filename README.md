@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0127-word-ladder) |
 | [0387-first-unique-character-in-a-string](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0387-first-unique-character-in-a-string) |
 | [0433-minimum-genetic-mutation](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0433-minimum-genetic-mutation) |
+| [0516-longest-palindromic-subsequence](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0516-longest-palindromic-subsequence) |
 | [0657-robot-return-to-origin](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0657-robot-return-to-origin) |
 | [0721-accounts-merge](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0721-accounts-merge) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -463,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0494-target-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0516-longest-palindromic-subsequence) |
 | [0542-01-matrix](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0788-rotated-digits](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0788-rotated-digits) |
