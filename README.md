@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0516-longest-palindromic-subsequence) |
 | [0657-robot-return-to-origin](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0657-robot-return-to-origin) |
 | [0721-accounts-merge](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0721-accounts-merge) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1871-jump-game-vii](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1871-jump-game-vii) |
 | [1980-find-unique-binary-string](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1980-find-unique-binary-string) |
@@ -469,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0788-rotated-digits](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0877-stone-game) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1340-jump-game-v](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1340-jump-game-v) |
 | [1406-stone-game-iii](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1406-stone-game-iii) |
