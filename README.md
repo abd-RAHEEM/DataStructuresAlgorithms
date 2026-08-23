@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0125-valid-palindrome) |
 | [0126-word-ladder-ii](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0127-word-ladder) |
+| [0171-excel-sheet-column-number](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0171-excel-sheet-column-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0387-first-unique-character-in-a-string) |
 | [0433-minimum-genetic-mutation](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0433-minimum-genetic-mutation) |
 | [0516-longest-palindromic-subsequence](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0516-longest-palindromic-subsequence) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0062-unique-paths) |
+| [0171-excel-sheet-column-number](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0171-excel-sheet-column-number) |
 | [0396-rotate-function](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0396-rotate-function) |
 | [0486-predict-the-winner](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0486-predict-the-winner) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
