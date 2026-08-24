@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-minimum-distance-to-the-target-element](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1861-rotating-the-box) |
+| [1872-stone-game-viii](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1872-stone-game-viii) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1980-find-unique-binary-string](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1980-find-unique-binary-string) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1510-stone-game-iv) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [1872-stone-game-viii](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1872-stone-game-viii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -329,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1732-find-the-highest-altitude](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1732-find-the-highest-altitude) |
 | [1871-jump-game-vii](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1871-jump-game-vii) |
+| [1872-stone-game-viii](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1872-stone-game-viii) |
 | [2574-left-and-right-sum-differences](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/2574-left-and-right-sum-differences) |
 | [2615-sum-of-distances](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/2615-sum-of-distances) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
@@ -487,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1510-stone-game-iv) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1871-jump-game-vii](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1871-jump-game-vii) |
+| [1872-stone-game-viii](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1872-stone-game-viii) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -723,16 +727,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1872-stone-game-viii) |
 ## Minimax
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1872-stone-game-viii) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1872-stone-game-viii) |
 ## Nim Game
 |  |
 | ------- |
