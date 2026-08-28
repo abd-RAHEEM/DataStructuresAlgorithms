@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3838-weighted-word-mapping](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/3838-weighted-word-mapping) |
 ## Backtracking
 |  |
@@ -467,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/2540-minimum-common-value) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3643-flip-square-submatrix-vertically](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/3643-flip-square-submatrix-vertically) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -688,6 +690,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Shortest Path
 |  |
 | ------- |
