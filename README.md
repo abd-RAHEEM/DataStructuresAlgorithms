@@ -286,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0486-predict-the-winner) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0788-rotated-digits](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0788-rotated-digits) |
+| [0836-rectangle-overlap](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0877-stone-game) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1406-stone-game-iii) |
@@ -573,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1401-circle-and-rectangle-overlapping) |
 | [3623-count-number-of-trapezoids-i](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/3623-count-number-of-trapezoids-i) |
 ## Rolling Hash
