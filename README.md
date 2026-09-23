@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1559-detect-cycles-in-2d-grid](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1631-path-with-minimum-effort) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1386-cinema-seat-allocation) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1980-find-unique-binary-string](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1980-find-unique-binary-string) |
 | [2540-minimum-common-value](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/2540-minimum-common-value) |
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0222-count-complete-tree-nodes) |
 | [1631-path-with-minimum-effort](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1631-path-with-minimum-effort) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2540-minimum-common-value](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/2540-minimum-common-value) |
@@ -352,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0238-product-of-array-except-self) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1732-find-the-highest-altitude](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1732-find-the-highest-altitude) |
 | [1871-jump-game-vii](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1871-jump-game-vii) |
@@ -611,6 +615,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0076-minimum-window-substring](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/0239-sliding-window-maximum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1871-jump-game-vii](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/1871-jump-game-vii) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/3090-maximum-length-substring-with-two-occurrences) |
