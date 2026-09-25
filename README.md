@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/3417-zigzag-grid-traversal-with-skip) |
 | [3488-closest-equal-element-queries](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/3488-closest-equal-element-queries) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3623-count-number-of-trapezoids-i](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/3623-count-number-of-trapezoids-i) |
 | [3637-trionic-array-i](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/3637-trionic-array-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/3643-flip-square-submatrix-vertically) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3345-smallest-divisible-digit-product-i](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/3536-maximum-product-of-two-digits) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3623-count-number-of-trapezoids-i](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/3623-count-number-of-trapezoids-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
