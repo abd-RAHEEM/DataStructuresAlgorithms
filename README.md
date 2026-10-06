@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3660-jump-game-ix](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/3660-jump-game-ix) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3488-closest-equal-element-queries](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/3488-closest-equal-element-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3623-count-number-of-trapezoids-i](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/3623-count-number-of-trapezoids-i) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/abd-RAHEEM/DataStructuresAlgorithms/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
